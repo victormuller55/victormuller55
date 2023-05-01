@@ -1,4 +1,4 @@
-### Olá, Bem vindo ao meu perfil. 👋
+### Olá, seja bem vindo ao meu perfil. 👋
 
 <!--
 **victormuller55/victormuller55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
