@@ -1,5 +1,5 @@
-👨🏻‍💻 Olá, seja bem vindo ao meu perfil no GitHub.
+Hello, welcome to my GitHub profile. 👨🏻‍💻
 
-Oi! Sou o Victor, um estudante de Engenharia de Software no quinto período, com 19 anos de idade. Sou apaixonado por programação e tecnologia, especialmente em Flutter e Java. Acredito firmemente que a busca contínua pelo conhecimento é essencial para o meu crescimento profissional. Estou sempre em busca de novos desafios para expandir minhas habilidades.
+Hi there! I'm Victor, a Software Engineering student in the fifth semester, aged 19. I'm passionate about programming and technology, especially in Flutter and Java. I firmly believe that continuous pursuit of knowledge is essential for my professional growth. I'm always seeking new challenges to expand my skills.
 
 ![Snake animation](https://github.com/victormuller55/victormuller55/blob/output/github-user-contribution.svg)
