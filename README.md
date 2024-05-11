@@ -3,6 +3,8 @@
 ### About Me
 Hi there! I'm Victor, a Software Engineering student in the fifth semester, aged 19. I'm passionate about programming and technology, especially in Flutter and Java. I firmly believe that continuous pursuit of knowledge is essential for my professional growth. I'm always seeking new challenges to expand my skills.
 
+![Snake animation](https://github.com/victormuller55/victormuller55/blob/output/github-user-contribution.svg)
+
 ### My Skills
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
@@ -16,5 +18,3 @@ Hi there! I'm Victor, a Software Engineering student in the fifth semester, aged
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
-### Commits:
-![Snake animation](https://github.com/victormuller55/victormuller55/blob/output/github-user-contribution.svg)
