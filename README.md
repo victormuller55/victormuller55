@@ -5,7 +5,7 @@ Hi there! I'm Victor, a Software Engineering student in the fifth semester, aged
 
 ![Snake animation](https://github.com/victormuller55/victormuller55/blob/output/github-user-contribution.svg)
 
-### My Skills
+### My Skills:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
