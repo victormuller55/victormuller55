@@ -17,7 +17,7 @@ Hi there! I'm Victor, a Software Engineering student in the fifth semester, aged
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{victormuller55}/count.svg"/></p> 
+<p align="center"><img src="https://profile-counter.glitch.me/{victormuller55}/count.svg"/></p> 
 <br>
 
 ![Snake animation](https://github.com/victormuller55/victormuller55/blob/output/github-user-contribution.svg)
