@@ -16,8 +16,5 @@ Hi there! I'm Victor, a Software Engineering student in the fifth semester, aged
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
-## Visitor Counter
-<img src="https://profile-counter.glitch.me/{victormuller55}/count.svg"/>
-
-
+## Commits:
 ![Snake animation](https://github.com/victormuller55/victormuller55/blob/output/github-user-contribution.svg)
